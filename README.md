@@ -2,7 +2,7 @@
 ### Welcome to Yeonggyun Kim's Github! 👋
 🏫 I studied Computer Science at Hanyang University ERICA.
 
-🔭 I'm currently working on [SamKrion.Corp](http://samkrion.com/) as a Business Developer Manager.
+🔭 I'm currently working on [SamKrion Corp.](http://samkrion.com/) as a Business Developer Manager.
 
 🍭 I'm member of [Developer Student Club](https://developers.google.com/community/dsc)
 
