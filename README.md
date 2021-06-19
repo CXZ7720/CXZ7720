@@ -2,9 +2,11 @@
 ### Welcome to Yeonggyun Kim's Github! 👋
 🏫 I studied Computer Science at Hanyang University ERICA.
 
-🔭 I'm currently working on [SamKrion Corp.](http://samkrion.com/) as a Business Developer Manager.
+🔭 I'm currently working on [SamKrion Corp.](http://samkrion.com/) as a Front-end developer.
 
-🍭 I'm member of [Developer Student Club](https://developers.google.com/community/dsc)
+🌱 I'm interested in React, React Native, Vue, and so on.
+
+<!-- 🍭 I was a member of [Developer Student Club](https://developers.google.com/community/dsc) -->
 
 📫 How to reach me: 0.gyun@zerogyun.dev
 <hr>
