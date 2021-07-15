@@ -14,7 +14,7 @@
   
   [![Yeonggyun's github stats](https://github-readme-stats.vercel.app/api?username=CXZ7720&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![portfolio](https://img.shields.io/badge/Portfolio-HERE-9cf)](https://zerogyun.dev/portfolio) 
+  [![portfolio](https://img.shields.io/badge/Portfolio-HERE-9cf)](https://zerogyun.dev/resume) 
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCXZ7720)
   ![social](https://img.shields.io/github/followers/CXZ7720?style=social)
   
