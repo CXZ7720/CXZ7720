@@ -2,7 +2,7 @@
 ### Welcome to Yeonggyun Kim's Github! 👋
 🏫 I studied Computer Science at Hanyang University ERICA.
 
-🔭 I'm currently working on [SamKrion Corp.](http://samkrion.com/) as a Front-end developer.
+🔭 I'm currently working on [SamKrion Corp.](http://www.domo.do/) as a Front-end developer.
 
 🌱 I'm interested in React, React Native, Vue, and so on.
 
