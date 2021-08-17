@@ -2,8 +2,6 @@
 ### Welcome to Yeonggyun Kim's Github! 👋
 🏫 I studied Computer Science at Hanyang University ERICA.
 
-🔭 I'm currently working on [SamKrion Corp.](http://www.domo.do/) as a Front-end developer.
-
 🌱 I'm interested in React, React Native, Vue, and so on.
 
 <!-- 🍭 I was a member of [Developer Student Club](https://developers.google.com/community/dsc) -->
