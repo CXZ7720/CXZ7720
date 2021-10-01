@@ -7,6 +7,8 @@
 <!-- 🍭 I was a member of [Developer Student Club](https://developers.google.com/community/dsc) -->
 
 📫 How to reach me: 0.gyun@zerogyun.dev
+
+🥕 I'm currently working on [Daangn Market](https://www.daangn.com/) as a front-end developer.
 <hr>
 <div align=center>
   
