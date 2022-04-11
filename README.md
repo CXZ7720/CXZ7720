@@ -9,7 +9,7 @@
 
 📫 How to reach me: 0.gyun@zerogyun.dev
 
-🥕 I'm currently working on [Daangn Market](https://www.daangn.com/) as a front-end developer.
+🥕 I'm currently working on [Daangn Market](https://team.daangn.com/)([Karrot](https://team.daangn.com/)) as a front-end developer.
 <hr>
 <div align=center>
   
