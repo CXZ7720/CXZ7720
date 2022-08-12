@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?color=gradient&type=waving&height=200&animation=twinkling&text=Yeonggyun Kim&fontAlignY=30&fontSize=50" width="100%" />
-
-
 ### Welcome to Yeonggyun Kim's Github! 👋
 
 🌱 I'm interested in React, React Native, Typescript, Graphql.
